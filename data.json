@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "value": "princess",
+            "count": 3
+        },
+        {
+            "value": "a, e, i, o, u",
+            "count": 744
+        }
+    ],
+    "time": 0.0009996891021728516
+}
